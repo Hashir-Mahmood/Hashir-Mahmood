@@ -2,5 +2,4 @@
 - 👀 I’m interested in Web Development and Data analytics
 - 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me Linkedin 
-- 
+- 📫 How to reach me Linkedin https://www.linkedin.com/in/hashir-mahmood-professional
